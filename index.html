@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo de Perguntas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+
+    <main>
+
+        <div class="container-assuntos">
+            <div class="btnAssuntos" data-tema="geografia">Geografia</div>
+            <div class="btnAssuntos" data-tema="matematica">Matemática</div>
+            <div class="btnAssuntos" data-tema="animais">Animais</div>
+            <div class="btnAssuntos" data-tema="tecnologia">Tecnologia</div>
+        </div>
+        <div class="container">
+            <header>
+                <div class="cxPontuacao">
+                    <span>Pontos</span><span class="pontos">0</span>
+                </div>
+            </header>
+
+            <div class="pergunta">
+                <h1>Qual a capital do Brasil?</h1>
+            </div>
+            <div class="respostas">
+                <div class="resposta" id="respostaA">São Paulo</div>
+                <div class="resposta" id="respostaB">Brasília</div>
+                <div class="resposta" id="respostaC">Rio de Janeiro</div>
+            </div>
+            <div id="informaResultado"></div>
+        </div>
+
+    </main>
+
+
+
+    <script type="module" src="main.js"></script>
+</body>
+
+</html>

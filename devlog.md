@@ -1,0 +1,5 @@
+- criar sistema de pontuação ✔️
+- criar barra lateral com assuntos para as questões✔️
+- criar novas questões no js✔️
+- refatorar para criar módulos✔️
+- módulos✔️

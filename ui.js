@@ -1,0 +1,8 @@
+export const pergunta = document.querySelector('.pergunta h1')
+export const respostaA = document.querySelector('#respostaA')
+export const respostaB = document.querySelector('#respostaB')
+export const respostaC = document.querySelector('#respostaC')
+export const botoes = document.querySelectorAll('.resposta')
+export const informaResultado = document.querySelector('#informaResultado')
+export const pontos = document.querySelector('.pontos')
+export const btnAssuntos = document.querySelectorAll('.btnAssuntos')
