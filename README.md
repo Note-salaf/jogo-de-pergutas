@@ -2,7 +2,7 @@
 
 Projeto simples de quiz com múltiplos temas (Geografia, Matemática, Animais e Tecnologia).
 
-Demo: 
+Demo: https://note-salaf.github.io/jogo-de-pergutas/
 
 ## 🚀 Tecnologias
 - HTML
@@ -19,4 +19,5 @@ Demo:
 ## 📌 Melhorias futuras
 - Embaralhar perguntas
 - Adicionar contador regressivo
+
 - Salvar pontuação no localStorage
